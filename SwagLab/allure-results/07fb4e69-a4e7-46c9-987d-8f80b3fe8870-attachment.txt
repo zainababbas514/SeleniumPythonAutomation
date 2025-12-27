@@ -1,0 +1,6 @@
+2025-12-05 19:08:32,704 - TestInventoryCart - INFO - Starting TC-005: Verify that clicking a product opens its details page.
+2025-12-05 19:08:32,705 - TestInventoryCart - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 19:08:33,379 - TestInventoryCart - INFO - Verifying inventory page loaded.
+2025-12-05 19:08:33,419 - TestInventoryCart - INFO - Clicking on random product to open the product page
+2025-12-05 19:08:33,841 - TestInventoryCart - INFO - Verifying product image is not broken
+2025-12-05 19:08:34,891 - TestInventoryCart - INFO - Verifying correct product details are showing

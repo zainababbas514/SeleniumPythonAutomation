@@ -1,0 +1,5 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:143 Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+INFO     TestInventoryCart:test_inventory_cart.py:16 Starting TC-001: Verify that all products are displayed correctly on the Inventory page.
+INFO     TestInventoryCart:test_inventory_cart.py:21 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:24 Verifying inventory page loaded
+INFO     TestInventoryCart:test_inventory_cart.py:27 Verifying all products load correctly with image, name, price.

@@ -1,0 +1,16 @@
+2025-12-05 18:50:53,586 - TestOrder - INFO - Starting TC-010: Verify user can order items successfully.
+2025-12-05 18:50:53,587 - TestOrder - INFO - Logging in as 'standard_user'.
+2025-12-05 18:50:54,287 - TestOrder - INFO - Verifying the Inventory page is loaded.
+2025-12-05 18:50:54,326 - TestOrder - INFO - Adding 2 items to cart.
+2025-12-05 18:50:55,441 - TestOrder - INFO - Verifying cart badge count.
+2025-12-05 18:50:55,483 - TestOrder - INFO - Opening the cart page.
+2025-12-05 18:50:55,982 - TestOrder - INFO - Verifying cart items match selected items.
+2025-12-05 18:50:56,031 - TestOrder - INFO - Clicking Checkout button.
+2025-12-05 18:50:56,219 - TestOrder - INFO - Filling checkout form.
+2025-12-05 18:50:56,714 - TestOrder - INFO - Clicking Continue button.
+2025-12-05 18:50:57,210 - TestOrder - INFO - Verifying checkout items match selected items.
+2025-12-05 18:50:57,268 - TestOrder - INFO - Verifying item total matches expected total.
+2025-12-05 18:50:57,455 - TestOrder - INFO - Verifying Thank You message.
+2025-12-05 18:50:57,515 - TestOrder - INFO - Verifying delivery message.
+2025-12-05 18:50:57,576 - TestOrder - INFO - Clicking Back Home button.
+2025-12-05 18:50:57,788 - TestOrder - INFO - Verifying redirection to Inventory page.

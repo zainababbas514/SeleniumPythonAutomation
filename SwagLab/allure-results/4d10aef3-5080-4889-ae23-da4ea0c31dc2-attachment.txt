@@ -1,0 +1,6 @@
+INFO     TestInventoryCart:test_inventory_cart.py:127 Starting TC-005: Verify that clicking a product opens its details page.
+INFO     TestInventoryCart:test_inventory_cart.py:132 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:135 Verifying inventory page loaded.
+INFO     TestInventoryCart:test_inventory_cart.py:138 Clicking on random product to open the product page
+INFO     TestInventoryCart:test_inventory_cart.py:141 Verifying product image is not broken
+INFO     TestInventoryCart:test_inventory_cart.py:144 Verifying correct product details are showing

@@ -1,0 +1,6 @@
+2025-12-05 19:28:05,540 - TestInventoryCart - INFO - Starting TC-002: Verify that a single and multiple products can be successfully added to the cart.
+2025-12-05 19:28:05,589 - TestInventoryCart - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 19:28:06,624 - TestInventoryCart - INFO - Verifying inventory page loaded
+2025-12-05 19:28:06,668 - TestInventoryCart - INFO - Add 1 items to the cart.
+2025-12-05 19:28:07,031 - TestInventoryCart - INFO - Verify cart badge is showing correct item count
+2025-12-05 19:28:07,075 - TestInventoryCart - INFO - Verifying added items showing Remove button

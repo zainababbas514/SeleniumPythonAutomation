@@ -1,0 +1,6 @@
+INFO     TestInventoryCart:test_inventory_cart.py:32 Starting TC-002: Verify that a single and multiple products can be successfully added to the cart.
+INFO     TestInventoryCart:test_inventory_cart.py:37 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:40 Verifying inventory page loaded
+INFO     TestInventoryCart:test_inventory_cart.py:45 Add 3 items to the cart.
+INFO     TestInventoryCart:test_inventory_cart.py:48 Verify cart badge is showing correct item count
+INFO     TestInventoryCart:test_inventory_cart.py:51 Verifying added items showing Remove button

@@ -1,0 +1,7 @@
+INFO     TestInventoryCart:test_inventory_cart.py:69 Starting TC-003: Verify cart page displays added products correctly.
+INFO     TestInventoryCart:test_inventory_cart.py:74 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:77 Verifying inventory page loaded
+INFO     TestInventoryCart:test_inventory_cart.py:82 Add 2 items to the cart.
+INFO     TestInventoryCart:test_inventory_cart.py:85 Verify cart badge is showing correct item count
+INFO     TestInventoryCart:test_inventory_cart.py:88 Open the cart page
+INFO     TestInventoryCart:test_inventory_cart.py:93 Verifying selected items and the cart items are the same.

@@ -1,0 +1,90 @@
+2025-12-01 15:57:38,620 - TestAppointment - INFO - Starting TC-006: Verify the user can book an appointment successfully.
+2025-12-01 15:57:38,622 - TestAppointment - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:57:39,529 - TestAppointment - INFO - The user is logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:57:40,853 - TestAppointment - INFO - The user is logged in successfully
+2025-12-01 15:57:40,853 - TestAppointment - INFO - Selecting Seoul CURA Healthcare Center facility from the dropdown
+2025-12-01 15:57:41,036 - TestAppointment - INFO - Clicking Apply for hospital readmission
+2025-12-01 15:57:41,283 - TestAppointment - INFO - Clicking Medicaid healthcare program radio button
+2025-12-01 15:57:41,456 - TestAppointment - INFO - Selecting 30/11/2026 as visit date
+2025-12-01 15:57:43,401 - TestAppointment - INFO - Writing comment in the comment box
+2025-12-01 15:57:43,848 - TestAppointment - INFO - Submitting the book appointment form
+2025-12-01 15:57:44,421 - TestAppointment - INFO - Verifying Seoul CURA Healthcare Center facility is selected
+2025-12-01 15:57:44,611 - TestAppointment - INFO - Verifying hospital readmission is Yes
+2025-12-01 15:57:44,661 - TestAppointment - INFO - Verifying Medicaid healthcare program is selected
+2025-12-01 15:57:44,724 - TestAppointment - INFO - Verifying 30/11/2026 as visit date is selected
+2025-12-01 15:57:44,774 - TestAppointment - INFO - Verifying comment in the comment box
+2025-12-01 15:57:54,851 - TestAppointment - INFO - Starting TC-007: Verify the booked appointment appears in the History with correct details.
+2025-12-01 15:57:54,852 - TestAppointment - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:57:56,046 - TestAppointment - INFO - The user is logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:57:57,705 - TestAppointment - INFO - The user is logged in successfully
+2025-12-01 15:57:57,706 - TestAppointment - INFO - Selecting Tokyo CURA Healthcare Center facility from the dropdown
+2025-12-01 15:57:57,814 - TestAppointment - INFO - Clicking Apply for hospital readmission
+2025-12-01 15:57:57,815 - TestAppointment - INFO - Clicking Medicare healthcare program radio button
+2025-12-01 15:57:58,026 - TestAppointment - INFO - Selecting 01/01/2026 as visit date
+2025-12-01 15:57:59,250 - TestAppointment - INFO - Writing comment in the comment box
+2025-12-01 15:57:59,719 - TestAppointment - INFO - Submitting the book appointment form
+2025-12-01 15:58:00,353 - TestAppointment - INFO - Verifying appointment booked successfully
+2025-12-01 15:58:00,557 - TestAppointment - INFO - Verifying Tokyo CURA Healthcare Center facility is selected
+2025-12-01 15:58:00,632 - TestAppointment - INFO - Verifying hospital readmission is No
+2025-12-01 15:58:00,698 - TestAppointment - INFO - Verifying Medicare healthcare program is selected
+2025-12-01 15:58:00,768 - TestAppointment - INFO - Verifying 01/01/2026 as visit date is selected
+2025-12-01 15:58:00,842 - TestAppointment - INFO - Verifying comment in the comment box
+2025-12-01 15:58:00,902 - TestAppointment - INFO - Clicking the menu toggle to open the menu
+2025-12-01 15:58:01,080 - TestAppointment - INFO - Clicking the 'History' option from the menu
+2025-12-01 15:58:01,792 - TestAppointment - INFO - Verifying the History page is loaded successfully
+2025-12-01 15:58:02,058 - TestAppointment - INFO - Verifying correct 01/01/2026 date is showing as panel heading in the History page
+2025-12-01 15:58:02,139 - TestAppointment - INFO - Verifying correct Tokyo CURA Healthcare Center facility is showing inside the History panel
+2025-12-01 15:58:02,217 - TestAppointment - INFO - Verifying hospital readmission is No
+2025-12-01 15:58:02,288 - TestAppointment - INFO - Verifying Medicare healthcare program is selected
+2025-12-01 15:58:02,354 - TestAppointment - INFO - Verifying correct comment is showing
+2025-12-01 15:58:12,214 - TestAppointment - INFO - Starting TC-010: Verify the make appointment form cannot be submitted without selecting a Visit Date.
+2025-12-01 15:58:12,215 - TestAppointment - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:58:13,119 - TestAppointment - INFO - The user is logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:58:14,466 - TestAppointment - INFO - The user is logged in successfully
+2025-12-01 15:58:14,467 - TestAppointment - INFO - Submitting the book appointment form without entering Visit Date
+2025-12-01 15:58:14,765 - TestAppointment - INFO - Verifying the user is still on the appointment page
+2025-12-01 15:58:14,816 - TestAppointment - INFO - Verifying the datepicker is displayed
+2025-12-01 15:58:14,858 - TestAppointment - INFO - Verifying 'Please fill in this field' tooltip is shown below the visit date
+2025-12-01 15:58:25,297 - TestLogin - INFO - Starting TC-001: Verify login form becomes visible when clicking 'Make Appointment' button.
+2025-12-01 15:58:25,298 - TestLogin - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:58:26,008 - TestLogin - INFO - Verifying login form is displayed with username, password field and the login button
+2025-12-01 15:58:26,194 - TestLogin - INFO - TC-001 Passed: The login form is visible with all fields and the login button
+2025-12-01 15:58:36,526 - TestLogin - INFO - Starting TC-002: Verify clicking the 'Login' option from the menu displays the login form.
+2025-12-01 15:58:36,526 - TestLogin - INFO - Clicking the menu toggle to open the menu
+2025-12-01 15:58:36,769 - TestLogin - INFO - Clicking the 'Login' option from the menu
+2025-12-01 15:58:37,605 - TestLogin - INFO - Verifying login form is displayed with username, password field and the login button
+2025-12-01 15:58:37,785 - TestLogin - INFO - TC-002 Passed: The login form is visible with all fields and the login button
+2025-12-01 15:58:48,290 - TestLogin - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:58:49,240 - TestLogin - INFO - Logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:58:50,563 - TestLogin - INFO - The user is logged in successfully with valid credentials
+2025-12-01 15:58:59,739 - TestLogin - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:00,789 - TestLogin - INFO - Logging in with username Tom Smith and password 12345678
+2025-12-01 15:59:02,278 - TestLogin - INFO - Login failed with invalid credentials
+2025-12-01 15:59:12,525 - TestLogin - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:13,414 - TestLogin - INFO - Logging in with username  and password 
+2025-12-01 15:59:14,872 - TestLogin - INFO - Login failed with invalid credentials
+2025-12-01 15:59:27,323 - TestLogout - INFO - Starting TC-009: Verify the user can logout from the profile page.
+2025-12-01 15:59:27,323 - TestLogout - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:28,232 - TestLogout - INFO - The user is logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:59:29,709 - TestLogout - INFO - The user is logged in successfully
+2025-12-01 15:59:29,710 - TestLogout - INFO - The user is opening the menu
+2025-12-01 15:59:29,873 - TestLogout - INFO - The user is clicking the profile page option from the menu
+2025-12-01 15:59:30,450 - TestLogout - INFO - Clicking the logout button on the profile page
+2025-12-01 15:59:32,018 - TestLogout - INFO - Waiting for the home page to complete loading
+2025-12-01 15:59:32,096 - TestLogout - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:32,930 - TestLogout - INFO - Verifying login form is displayed with username, password field and the login button
+2025-12-01 15:59:33,178 - TestLogout - INFO - Clicking the menu toggle to open the menu
+2025-12-01 15:59:33,424 - TestLogout - INFO - Verifying correct menu options showing after logout
+2025-12-01 15:59:33,598 - TestLogout - INFO - TC-009 - The test passed successfully
+2025-12-01 15:59:43,848 - TestLogout - INFO - Starting TC-008: Verify the user can logout from the menu.
+2025-12-01 15:59:43,849 - TestLogout - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:44,679 - TestLogout - INFO - Logging in with username John Doe and password ThisIsNotAPassword
+2025-12-01 15:59:46,268 - TestLogout - INFO - The user is logged in successfully
+2025-12-01 15:59:46,269 - TestLogout - INFO - Opening the menu
+2025-12-01 15:59:46,484 - TestLogout - INFO - Clicking the menu Logout option
+2025-12-01 15:59:47,653 - TestLogout - INFO - Waiting for the home page to complete loading
+2025-12-01 15:59:47,720 - TestLogout - INFO - Clicking the 'Make Appointment' button
+2025-12-01 15:59:48,513 - TestLogout - INFO - Verifying login form is displayed with username, password field and the login button
+2025-12-01 15:59:48,849 - TestLogout - INFO - Clicking the menu toggle to open the menu
+2025-12-01 15:59:49,022 - TestLogout - INFO - Verifying correct menu options showing after logout
+2025-12-01 15:59:49,137 - TestLogout - INFO - TC-008 - The test passed successfully

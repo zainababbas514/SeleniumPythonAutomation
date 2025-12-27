@@ -1,0 +1,10 @@
+2025-12-05 17:59:17,791 - TestInventoryCart - INFO - Starting TC-004: Verify user can remove a product from the cart page successfully.
+2025-12-05 17:59:17,793 - TestInventoryCart - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 17:59:18,455 - TestInventoryCart - INFO - Verifying inventory page loaded
+2025-12-05 17:59:18,522 - TestInventoryCart - INFO - Add 3 items to the cart.
+2025-12-05 17:59:19,438 - TestInventoryCart - INFO - Verify cart badge is showing correct item count
+2025-12-05 17:59:19,482 - TestInventoryCart - INFO - Open the cart page
+2025-12-05 17:59:20,097 - TestInventoryCart - INFO - Verifying selected items and the cart items are the same.
+2025-12-05 17:59:20,677 - TestInventoryCart - INFO - Verify cart badge is showing correct item count after removing items from cart
+2025-12-05 17:59:20,714 - TestInventoryCart - INFO - Clicking continue shopping button
+2025-12-05 17:59:20,902 - TestInventoryCart - INFO - Verifying correct items show Remove button

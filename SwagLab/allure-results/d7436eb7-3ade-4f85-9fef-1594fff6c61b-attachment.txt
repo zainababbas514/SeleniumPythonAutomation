@@ -1,0 +1,5 @@
+INFO     TestSorting:test_sorting.py:15 Starting TC-006: Verify product sorting by Name (A-Z) sorts the products in ascending order.
+INFO     TestSorting:test_sorting.py:20 Logging in with username standard_user and password secret_sauce.
+INFO     TestSorting:test_sorting.py:23 Verifying inventory page loaded
+INFO     TestSorting:test_sorting.py:26 Sort the products by name (A-Z)
+INFO     TestSorting:test_sorting.py:31 Verifying the items are sorted by name (A-Z)

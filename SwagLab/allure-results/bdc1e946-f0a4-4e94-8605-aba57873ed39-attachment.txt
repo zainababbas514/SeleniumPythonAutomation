@@ -1,0 +1,10 @@
+INFO     TestInventoryCart:test_inventory_cart.py:99 Starting TC-004: Verify user can remove a product from the cart page successfully.
+INFO     TestInventoryCart:test_inventory_cart.py:104 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:107 Verifying inventory page loaded
+INFO     TestInventoryCart:test_inventory_cart.py:113 Add 3 items to the cart.
+INFO     TestInventoryCart:test_inventory_cart.py:116 Verify cart badge is showing correct item count
+INFO     TestInventoryCart:test_inventory_cart.py:119 Open the cart page
+INFO     TestInventoryCart:test_inventory_cart.py:124 Verifying selected items and the cart items are the same.
+INFO     TestInventoryCart:test_inventory_cart.py:132 Verify cart badge is showing correct item count after removing items from cart
+INFO     TestInventoryCart:test_inventory_cart.py:135 Clicking continue shopping button
+INFO     TestInventoryCart:test_inventory_cart.py:138 Verifying correct items show Remove button

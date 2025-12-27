@@ -1,0 +1,17 @@
+{
+    "valid_login": {
+      "username": "John Doe",
+      "password": "ThisIsNotAPassword",
+      "expected_result": "success"
+    },
+    "invalid_login": {
+      "username": "Tom Smith",
+      "password": "12345678",
+      "expected_result": "failure"
+    },
+    "empty_login": {
+      "username": "",
+      "password": "",
+      "expected_result": "failure"
+    }
+}

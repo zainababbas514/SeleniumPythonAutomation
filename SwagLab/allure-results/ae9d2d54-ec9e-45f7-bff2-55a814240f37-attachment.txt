@@ -1,0 +1,4 @@
+2025-12-05 17:58:17,880 - TestInventoryCart - INFO - Starting TC-001: Verify that all products are displayed correctly on the Inventory page.
+2025-12-05 17:58:17,881 - TestInventoryCart - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 17:58:18,721 - TestInventoryCart - INFO - Verifying inventory page loaded
+2025-12-05 17:58:18,810 - TestInventoryCart - INFO - Verifying all products load correctly with image, name, price.

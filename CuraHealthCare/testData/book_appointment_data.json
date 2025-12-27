@@ -1,0 +1,20 @@
+{
+    "TC-006": {
+      "appointment_form_data": {
+        "facility": "Seoul CURA Healthcare Center",
+        "hospital_readmission": "Yes",
+        "healthcare_program": "Medicaid",
+        "visit_date": "30/11/2026",
+        "comment": "As a patient, I was able to log in, choose my preferred date and time, and submit my appointment without any issues."
+      }
+    },
+    "TC-007": {
+      "appointment_form_data": {
+        "facility": "Tokyo CURA Healthcare Center",
+        "hospital_readmission": "No",
+        "healthcare_program": "Medicare",
+        "visit_date": "01/01/2026",
+        "comment": "I scheduled my visit smoothly. All required fields were clear, and the appointment confirmation appeared correctly on the screen."
+      }
+    }
+}

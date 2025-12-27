@@ -1,0 +1,5 @@
+2025-12-05 19:29:46,939 - TestSorting - INFO - Starting TC-008: Verify product sorting by Price (Low to High).
+2025-12-05 19:29:46,939 - TestSorting - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 19:29:47,644 - TestSorting - INFO - Verifying inventory page loaded
+2025-12-05 19:29:47,683 - TestSorting - INFO - Sort the products by price low to high
+2025-12-05 19:29:48,053 - TestSorting - INFO - Verifying the items are sorted by price low to high

@@ -1,0 +1,16 @@
+INFO     TestOrder:test_order.py:20 Starting TC-010: Verify user can order items successfully.
+INFO     TestOrder:test_order.py:35 Logging in as 'standard_user'.
+INFO     TestOrder:test_order.py:38 Verifying the Inventory page is loaded.
+INFO     TestOrder:test_order.py:42 Adding 2 items to cart.
+INFO     TestOrder:test_order.py:45 Verifying cart badge count.
+INFO     TestOrder:test_order.py:49 Opening the cart page.
+INFO     TestOrder:test_order.py:53 Verifying cart items match selected items.
+INFO     TestOrder:test_order.py:57 Clicking Checkout button.
+INFO     TestOrder:test_order.py:60 Filling checkout form.
+INFO     TestOrder:test_order.py:64 Clicking Continue button.
+INFO     TestOrder:test_order.py:68 Verifying checkout items match selected items.
+INFO     TestOrder:test_order.py:75 Verifying item total matches expected total.
+INFO     TestOrder:test_order.py:81 Verifying Thank You message.
+INFO     TestOrder:test_order.py:85 Verifying delivery message.
+INFO     TestOrder:test_order.py:90 Clicking Back Home button.
+INFO     TestOrder:test_order.py:93 Verifying redirection to Inventory page.

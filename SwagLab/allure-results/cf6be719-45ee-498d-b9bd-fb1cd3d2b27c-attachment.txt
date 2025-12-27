@@ -1,0 +1,4 @@
+INFO     TestInventoryCart:test_inventory_cart.py:22 Starting TC-001: Verify that all products are displayed correctly on the Inventory page.
+INFO     TestInventoryCart:test_inventory_cart.py:27 Logging in with username standard_user and password secret_sauce.
+INFO     TestInventoryCart:test_inventory_cart.py:30 Verifying inventory page loaded
+INFO     TestInventoryCart:test_inventory_cart.py:33 Verifying all products load correctly with image, name, price.

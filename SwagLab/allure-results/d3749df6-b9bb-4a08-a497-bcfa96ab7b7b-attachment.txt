@@ -1,0 +1,5 @@
+2025-12-05 18:42:56,468 - TestSorting - INFO - Starting TC-007: Verify product sorting by Name (Z-A) sorts the products in descending alphabetical order.
+2025-12-05 18:42:56,469 - TestSorting - INFO - Logging in with username standard_user and password secret_sauce.
+2025-12-05 18:42:57,239 - TestSorting - INFO - Verifying inventory page loaded
+2025-12-05 18:42:57,284 - TestSorting - INFO - Sort the products by name (Z-A)
+2025-12-05 18:42:57,637 - TestSorting - INFO - Verifying the items are sorted by name (Z-A)
